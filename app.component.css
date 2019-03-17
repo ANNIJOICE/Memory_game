@@ -1,0 +1,7 @@
+table{
+    border:"1";
+  }
+  td{
+    height: 100px;
+    width: 100px;
+  }
